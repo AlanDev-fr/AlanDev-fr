@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey, soy Alan 👋
 
-<!--
-**AlanDev-fr/AlanDev-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer & Machine Learning enthusiast** — Quito, Ecuador 🇪🇨
 
-Here are some ideas to get you started:
+Construyo aplicaciones web, móviles y sistemas con IA integrada. Me obsesiona la arquitectura limpia, el rendimiento y que las cosas funcionen de verdad en producción.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+### 🎙️ [VoiceFlow](https://github.com/AlanDev-fr/voiceflow) · [Demo en vivo →](https://voiceflow-lemon.vercel.app)
+Sistema de autenticación biométrica por voz con deep learning — sin contraseñas, sin servicios de terceros.
+Pipeline dual de embeddings (Resemblyzer + SpeechBrain ECAPA-TDNN), threshold dinámico y data augmentation 6×.
+`Next.js` `FastAPI` `Python` `Firebase` `Hugging Face`
+
+### 🔍 [RepoInsight](https://github.com/AlanDev-fr/repoinsight) · [Demo en vivo →](https://repoinsight-alpha.vercel.app)
+Herramienta de inteligencia de código con IA: búsqueda semántica, chat con el repo y análisis de arquitectura para cualquier repo público de GitHub.
+RAG con Groq + Llama 3.3 70B, 25+ lenguajes soportados vía tree-sitter.
+`Next.js` `FastAPI` `ChromaDB` `Supabase` `Groq`
+
+### 📋 [ProjectFlow Kanban](https://github.com/AlanDev-fr/projectflow-kanban)
+App mobile-first de gestión de proyectos con sync en tiempo real, drag & drop y notificaciones push — iOS, Android y Web desde un solo codebase.
+`React Native` `Expo` `TypeScript` `Firebase`
+
+---
+
+## 🛠️ Stack
+
+```
+Frontend   →  React · Next.js 14 · React Native · Angular · Tailwind CSS
+Backend    →  Node.js · Express · FastAPI
+ML / AI    →  sentence-transformers · Resemblyzer · SpeechBrain · RAG pipelines · Groq
+Databases  →  PostgreSQL · MySQL · Firebase Firestore · ChromaDB
+DevOps     →  Git · Docker · Vercel · Hugging Face Spaces · Expo EAS
+```
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-dev-48a9893ab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alandev.fr@gmail.com)
+
+---
+
+*Abierto a roles remotos Full Stack / ML* 🌎
