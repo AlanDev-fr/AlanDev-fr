@@ -4,6 +4,8 @@
 
 Construyo aplicaciones web, móviles y sistemas con IA integrada. Me obsesiona la arquitectura limpia, el rendimiento y que las cosas funcionen de verdad en producción.
 
+🌐 **[alanfr.dev](https://alanfr.dev)**
+
 ---
 
 ## 🚀 Proyectos destacados
@@ -26,20 +28,19 @@ App mobile-first de gestión de proyectos con sync en tiempo real, drag & drop y
 
 ## 🛠️ Stack
 
-```
-Frontend   →  React · Next.js 14 · React Native · Angular · Tailwind CSS
+Frontend   →  React · Next.js · React Native · Angular · Tailwind CSS
 Backend    →  Node.js · Express · FastAPI
 ML / AI    →  sentence-transformers · Resemblyzer · SpeechBrain · RAG pipelines · Groq
 Databases  →  PostgreSQL · MySQL · Firebase Firestore · ChromaDB
 DevOps     →  Git · Docker · Vercel · Hugging Face Spaces · Expo EAS
-```
 
 ---
 
 ## 📫 Contacto
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-alanfr.dev-000000?style=flat&logo=vercel&logoColor=white)](https://alanfr.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-dev-48a9893ab/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alandev.fr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@alanfr.dev)
 
 ---
 
