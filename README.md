@@ -39,7 +39,7 @@ DevOps     →  Git · Docker · Vercel · Hugging Face Spaces · Expo EAS
 ## 📫 Contacto
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alanfr.dev-000000?style=flat&logo=vercel&logoColor=white)](https://alanfr.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-dev-48a9893ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alandev-fr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@alanfr.dev)
 
 ---
